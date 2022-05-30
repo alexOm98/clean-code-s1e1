@@ -120,7 +120,11 @@
   justify-content: space-between;
   align-items: center;
 }
-.list__item > * {
+.list__input-checkbox,
+.list__title,
+.list__input,
+.list__button,
+.list__button-delete {
   vertical-align: middle;
 }
 
