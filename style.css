@@ -132,6 +132,7 @@
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
+  margin: 0px;
 }
 .list__input {
   width: 226px;
